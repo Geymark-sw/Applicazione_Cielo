@@ -19,7 +19,7 @@ const NavBar = () => {
     <div className="Main">
       <div className="LogoSection">
         <img className="aereo" src={aereo} alt="Logo" />
-        <h2 className="text">Air Station</h2>
+        <h2 className="text">Fly Scanner</h2>
       </div>
 
       {/* Hamburger Menu Icon */}

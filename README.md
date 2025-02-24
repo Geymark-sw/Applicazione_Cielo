@@ -1,4 +1,4 @@
-Progetto Air Station
+Progetto Fly Scanner
 
 Tecnologie Utilizzate:
 
@@ -24,7 +24,7 @@ Design e Stile:
 
     NavBar:
 
-        Logo Air Station sulla sinistra insieme all'immagine di un aereo.
+        Logo Fly Scanner sulla sinistra insieme all'immagine di un aereo.
 
         Link di Navigazione sulla destra:
 
@@ -32,7 +32,7 @@ Design e Stile:
 
             Voli in Partenza: Tabella con tutti i voli in partenza.
 
-            Compagnie: Lista di tutte le compagnie di Air Station.
+            Compagnie: Lista di tutte le compagnie di Fly Scanner.
 
         Responsive Design: Su dispositivi mobili, i link si trasformano in un hamburger menu.
 
