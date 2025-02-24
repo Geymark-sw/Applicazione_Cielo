@@ -44,11 +44,11 @@ Design e Stile:
 
 HomePage:
 
-    Cenno Storico: Presenta la storia di AirStation con immagini e uno stile gradevole.
+    Cenno Storico: Presenta la storia di Fly Scanner con immagini e uno stile gradevole.
 
 Footer:
 
-    Contatti: Telefono, mail e tutti i social media (Instagram, Facebook, Threads).
+    Contatti: Telefono, mail e tutti i social media (Instagram, Facebook, ).
 
     Effetto Hover: Tutti i link del sito dispongono di una proprietà CSS chiamata Hover che migliora la leggibilità al passaggio del mouse.
 

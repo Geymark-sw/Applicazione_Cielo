@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./NavBar.css";
-import aereo from "./assets/aereo.png";
+import aereo from "./assets/logo.webp";
 import { Link } from "react-router-dom";
 import { FaBars, FaTimes } from "react-icons/fa";
 

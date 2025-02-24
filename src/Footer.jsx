@@ -7,17 +7,16 @@ function Footer() {
         <div className="social-links">
           <ul>
             <h2 className="ciao">Social links</h2>
-            <li><a href="/">Facebook</a></li>
+            <li><a href="/">TikTok</a></li>
             <li><a href="/">Instagram</a></li>
-            <li><a href="/">Threads</a></li>
           </ul>
         </div>
       </div>
       <div className="Contatti">
         <ul className="link-contatti">
           <h2 id="yee">Contatti</h2>
-          <li id="margin">Numero di telefono 0646757367</li>
-          <li>Email airstation@gmail.com</li>
+          <li id="margin">Numero di telefono 0654823917</li>
+          <li>Email flyscanner@fs.com</li>
         </ul>
       </div>
     </div>

@@ -1,4 +1,4 @@
-import aereo from './images/aereo.png';
+import aereo from './images/logo.webp';
 
 const Hero = () => {
     const heroStyle = {
