@@ -1,0 +1,72 @@
+.Wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  margin-top: 50px;
+  background-color: #f4f4f4;
+  min-height: 100vh;
+  margin-top: -20px;
+}
+
+.CardContainer {
+  display: grid;
+  gap: 20px;
+  max-width: 1200px;
+  width: 100%;
+}
+
+.Card {
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.Card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}
+
+.text-compagnia {
+  color: rgb(124, 176, 255);
+  margin-bottom: 50px;
+  font-size: 50px;
+  text-align: center;
+}
+
+.CardHeader h3 {
+  font-size: 1.5rem;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.CardBody p {
+  font-size: 1rem;
+  color: #555;
+  margin: 0;
+  line-height: 1.5;
+}
+
+@media (max-width: 768px) {
+  .CardContainer {
+    grid-template-columns: 1fr;
+  }
+
+  .text-compagnia {
+    font-size: 35px;
+  }
+
+  
+}
+
+
+@media (max-width: 250px) {
+
+  .text-compagnia {
+    font-size: 20px;
+  }
+
+  
+}
