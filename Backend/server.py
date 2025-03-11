@@ -14,7 +14,7 @@ user = 'postgres'
 password = "postgres"
 
 
-# Connessione al database 
+# Connessione al database #
 
 try:
     connection = psycopg2.connect(
